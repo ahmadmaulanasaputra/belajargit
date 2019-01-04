@@ -1,1 +1,3 @@
 mengedit file 4...
+
+edit lagi..tapi salah..
